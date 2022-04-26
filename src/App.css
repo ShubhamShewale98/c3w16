@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  background-color: red;
+display:grid;
+grid-template-columns: repeat(2 , 20%);
+
+
+
+}
